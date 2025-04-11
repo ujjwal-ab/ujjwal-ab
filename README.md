@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | React & Node.js Specialist | Scalable Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=450&lines=Building+Robust+Full-Stack+Applications;Expertise+in+React%2C+Node%2C+Kafka%2C+MongoDB;Scalable+Architecture+%7C+Clean+Code+%7C+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=550&lines=Building+Robust+Full-Stack+Applications;Expertise+in+React%2C+Node%2C+Kafka%2C+MongoDB;Scalable+Architecture+%7C+Clean+Code+%7C+Problem+Solving" alt="Typing SVG" />
 </p>
 
 ---
