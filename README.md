@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 - 💼 Full-Stack Developer @ **IBM India Software Labs**
-- 🧠 3+ years building scalable frontend & backend systems
+- 🧠 4+ years building scalable frontend & backend systems
 - 🔍 Ex-SDE @ **RudderStack** (Event pipelines, cloud integrations, testing frameworks)
 - 🛠 Love architecting robust solutions, from **React UIs** to **event-driven backends**
 - 🧩 Passionate about clean code, low-latency systems, and developer productivity
